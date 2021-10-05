@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Anik",
+      "company": "Data Soft",
+      "post": "Front-End Designer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 2,
+      "name": "Urmi",
+      "company": "Brain Sta.",
+      "post": " Front-End Designer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 3,
+      "name": "Akash",
+      "company": "Jom shapp",
+      "post": " Web developer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 4,
+      "name": "Mamun",
+      "company": "Giga Tech",
+      "post": " Web developer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 5,
+      "name": "Zahirul",
+      "company": "Akij Group",
+      "post": "Back-End developer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 6,
+      "name": "Johirul",
+      "company": "Bkash Bank",
+      "post": "Native Developer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 7,
+      "name": "Saiful",
+      "company": "Nogod Bank",
+      "post": " IOS Developer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 8,
+      "name": "Tareq",
+      "company": "Pathau Ride",
+      "post": "UI/UX Designer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 9,
+      "name": "Sanim",
+      "company": "Dutch-Bangla Bank",
+      "post": "App Developer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    },
+    {
+      "id": 10,
+      "name": "Munna",
+      "company": "Dutch-Bangla Bank",
+      "post": "Djanggo Developer",
+      "comment": "I am so much thankful to the Skill Nourishing platform for nourishing my skill. I got a prestigious job only for thier intensive care"
+    }
+  ]
